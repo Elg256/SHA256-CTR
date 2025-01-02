@@ -1,7 +1,7 @@
 import hashlib
 import os
 import base64
-from cryptcrro.hmac import hmac_sha256
+from hmac import hmac_sha256
 
 
 def generate_key():
